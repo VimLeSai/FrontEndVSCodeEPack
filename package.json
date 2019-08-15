@@ -1,19 +1,43 @@
 {
-  "name": "vimlesai-front-end-ext-pack",
+  "name": "front-end-ext-pack",
   "displayName": "Front-End Extension Pack",
-  "description": "This Extention Pack includes mostly important extentsion that is needy for onr front-end developer",
+  "description": "This Extension Pack includes mostly important extensions that is needy for front-end developer",
   "version": "0.0.1",
+  "publisher": "VimLeSai",
+  "private": true,
   "engines": {
     "vscode": "^1.37.0"
   },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/VimLeSai/FrontEndVSCodeEPack"
+  },
+  "homepage": "https://github.com/VimLeSai/FrontEndVSCodeEPack",
+  "bugs": {
+    "url": "https://github.com/VimLeSai/FrontEndVSCodeEPack/issues",
+    "email": "desai.vimal250@gmail.com"
+  },
+  "author": {
+    "name": "VimLeSai",
+    "email": "desai.vimal250@gmail.com"
+  },
   "categories": [
     "Extension Packs"
+  ],
+  "keywords": [
+    "Front End",
+    "Javascript",
+    "React",
+    "Theme",
+    "Formatting",
+    "Node",
+    "Extension Pack"
   ],
   "extensionPack": [
     "steoates.autoimport",
     "aaron-bond.better-comments",
     "alefragnani.bookmarks",
-    "coenraads.bracket-pair-colorizer",
+    "CoenraadS.bracket-pair-colorizer",
     "naumovs.color-highlight",
     "msjsdiag.debugger-for-chrome",
     "joelday.docthis",
@@ -24,11 +48,15 @@
     "oderwat.indent-rainbow",
     "yzhang.markdown-all-in-one",
     "pkief.material-icon-theme",
+    "equinusocio.vsc-material-theme",
     "eg2.vscode-npm-script",
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
     "esbenp.prettier-vscode",
     "alefragnani.project-manager",
-    "chakrounanas.turbo-console-log"
+    "chakrounanas.turbo-console-log",
+    "streetsidesoftware.code-spell-checker",
+    "codezombiech.gitignore",
+    "donjayamanne.githistory"
   ]
 }
