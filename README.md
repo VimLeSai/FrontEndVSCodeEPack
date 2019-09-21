@@ -117,5 +117,9 @@ See more here [Better Comment](https://github.com/aaron-bond/better-comments).
 
 - Git History, Search and More (including git log)
 
+### And many more extensions are added for now. I will update this doc soon for now i'm listing it here
+
+1)  
+2)  
 
 **Happy Coding !**
