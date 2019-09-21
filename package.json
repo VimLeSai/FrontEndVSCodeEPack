@@ -8,7 +8,7 @@
   "engines": {
     "vscode": "^1.30.0"
   },
-  "icon": "cofing.png",
+  "icon": "coding.png",
   "repository": {
     "type": "github",
     "url": "https://github.com/VimLeSai/FrontEndVSCodeEPack"
